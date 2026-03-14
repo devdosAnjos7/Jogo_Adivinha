@@ -17,6 +17,7 @@ O usuário tem **5 tentativas** para acertar o número. A cada tentativa, o prog
 ## ▶️ Como executar o projeto
 
 1. Clone o repositório:
+```bash
    
 
 2.Abra o projeto em uma IDE Java.
